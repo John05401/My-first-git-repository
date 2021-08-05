@@ -1,0 +1,20 @@
+.centered{
+    text-align: center;
+}
+html{
+    background-color: aquamarine;
+}
+h2{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace
+}
+div{
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace
+}
+img{
+    margin: 10px;
+    padding: 10px;
+    border: solid black;
+    border-collapse: collapse;
